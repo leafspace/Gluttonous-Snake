@@ -1,0 +1,29 @@
+﻿Build started 2015/12/20 11:35:21.
+     1>Project "E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ActionFunction.cpp OpenInitFunction.cpp SnakeRunFunction.cpp TwoGamePlayers.cpp Win32Project.cpp
+         Win32Project.cpp
+         TwoGamePlayers.cpp
+         SnakeRunFunction.cpp
+         OpenInitFunction.cpp
+         ActionFunction.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Resource.res" Resource.rc 
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\SnakeResource.res" SnakeResource.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\Debug\贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\贪吃蛇.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /Debug /PDB:"E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\Debug\贪吃蛇.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\Debug\贪吃蛇.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\SnakeResource.res
+         Debug\ActionFunction.obj
+         Debug\OpenInitFunction.obj
+         Debug\SnakeRunFunction.obj
+         Debug\TwoGamePlayers.obj
+         Debug\Win32Project.obj
+         贪吃蛇.vcxproj -> E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\Debug\贪吃蛇.exe
+       Manifest:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\mt.exe /nologo /verbose /out:"E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\Debug\贪吃蛇.exe.manifest" /manifest "Debug\贪吃蛇.exe.intermediate.manifest"
+     1>Done Building Project "E:\程序\语言程序\Windows编程\贪吃蛇\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.79
